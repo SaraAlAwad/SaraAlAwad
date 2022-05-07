@@ -1,4 +1,4 @@
-### Hi, I'm Sara 👋
+### Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 
 
