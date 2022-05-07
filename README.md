@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on final project for full-stack web development bootcamp
+- 🔭 I’m currently working on final project for my full-stack web development bootcamp
 - 🌱 I’m currently learning Nodejs
 - 📫 How to reach me: sara-alawad@outlook.com
 
