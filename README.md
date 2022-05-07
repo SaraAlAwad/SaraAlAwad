@@ -1,9 +1,6 @@
 ### Hi, I'm Sara 👋
 
-<!--
-**SaraAlAwad/SaraAlAwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on final project for full-stack web development bootcamp
 - 🌱 I’m currently learning Nodejs
@@ -26,4 +23,3 @@ Here are some ideas to get you started:
 
 
 # ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?SaraAlAwad=#your-username&theme=dracula&hide_border=true)
--->
