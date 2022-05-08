@@ -14,6 +14,10 @@
 ### Languages✍🏼
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/nodejs.png"/><img src="https://img.icons8.com/color/35/000000/mongodb.png"/>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
 
 ### Tools⚒️
 
