@@ -1,9 +1,9 @@
 
-<h2>Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+### Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
-- 🔭 I’m currently working on my final project for the full-stack web development bootcamp i am currently attending
+- 🔭 I’m currently working on my final project for the full-stack web development bootcamp i am attending
 - 🌱 I’m currently learning Nodejs
 - 📫 How to reach me: sara-alawad@outlook.com
 
@@ -17,7 +17,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>  </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="sass" width="40" height="40"/> </a>    
 </p>
 
-## 📊 GitHub Stats :
+### GitHub Stats 📊 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraAlAwad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
