@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on my final project for the full-stack web development bootcamp i am attending
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently redoing and editing old project.
+- 🌱 I’m currently learning React
 - 📫 How to reach me: sara-alawad@outlook.com
 
 
