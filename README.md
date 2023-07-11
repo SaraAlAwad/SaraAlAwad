@@ -1,10 +1,8 @@
 
 ### Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
+- fullstack web developer
 
-
-- 🔭 I’m currently redoing and editing old project.
-- 🌱 I’m currently learning React
 - 📫 How to reach me: sara-alawad@outlook.com
 
 
